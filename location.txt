@@ -1,0 +1,24 @@
+restaurant :
+    NH 48, Thirumagondanahalli, Bommasandra, Karnataka 562107 : 
+        R1- [12.793618, 77.722573]
+        R2- [12.793754, 77.721243]
+        R3- [12.792049, 77.727573]
+        R4- [12.789726, 77.735888]
+    Bommasandra :
+        R5- [12.818693, 77.690575]
+    Electronic city :
+        R6- [12.846999, 77.672696]
+
+user : 
+    Neraluru :
+        U1- [12.791347, 77.730070]
+
+Driver : 
+    Chandapura :
+        D1- [12.802902, 77.705335]
+        D2- [12.802630, 77.702513]
+    Thirumagondanahalli :
+        D3- [12.795098, 77.720441]
+    Electronic city :
+        D4- [12.851606, 77.668989]
+        D5- [12.850560, 77.669289]
